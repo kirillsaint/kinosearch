@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.60e169c8.js",
+    "main.js": "/static/js/main.8125e82d.js",
     "static/media/KinoSearch.apk": "/static/media/KinoSearch.7cd065b317c22f62eaa7.apk",
     "static/media/logo.png": "/static/media/logo.f843dab03be182d8f7ad.png",
     "index.html": "/index.html",
-    "main.60e169c8.js.map": "/static/js/main.60e169c8.js.map"
+    "main.8125e82d.js.map": "/static/js/main.8125e82d.js.map"
   },
   "entrypoints": [
-    "static/js/main.60e169c8.js"
+    "static/js/main.8125e82d.js"
   ]
 }
