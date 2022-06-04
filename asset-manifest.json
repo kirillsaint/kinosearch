@@ -1,12 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.0c4b07a8.js",
+    "main.js": "/static/js/main.256f46f0.js",
+    "static/js/543.68e9ce79.chunk.js": "/static/js/543.68e9ce79.chunk.js",
+    "static/js/580.4bfdee8f.chunk.js": "/static/js/580.4bfdee8f.chunk.js",
+    "static/js/637.278537df.chunk.js": "/static/js/637.278537df.chunk.js",
+    "static/js/60.048c0f3f.chunk.js": "/static/js/60.048c0f3f.chunk.js",
+    "static/js/854.7f0405ed.chunk.js": "/static/js/854.7f0405ed.chunk.js",
+    "static/js/903.cce7a1eb.chunk.js": "/static/js/903.cce7a1eb.chunk.js",
+    "static/js/183.ca1af2cb.chunk.js": "/static/js/183.ca1af2cb.chunk.js",
+    "static/js/351.3d1f0ca0.chunk.js": "/static/js/351.3d1f0ca0.chunk.js",
+    "static/js/102.1982d908.chunk.js": "/static/js/102.1982d908.chunk.js",
+    "static/js/158.b9159c07.chunk.js": "/static/js/158.b9159c07.chunk.js",
+    "static/js/881.af6095de.chunk.js": "/static/js/881.af6095de.chunk.js",
     "static/media/KinoSearch.apk": "/static/media/KinoSearch.7cd065b317c22f62eaa7.apk",
     "static/media/logo.png": "/static/media/logo.f843dab03be182d8f7ad.png",
-    "index.html": "/index.html",
-    "main.0c4b07a8.js.map": "/static/js/main.0c4b07a8.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/js/main.0c4b07a8.js"
+    "static/js/main.256f46f0.js"
   ]
 }
